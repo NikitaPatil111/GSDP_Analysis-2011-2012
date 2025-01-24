@@ -1,2 +1,7 @@
 # GSDP_Analysis-2011-2012
-This Power BI dashboard analyzes GSDP Growth from 2011-2022 using data from data.gov.in, showing total GSDP for 2021-22 at 1,154,859.99M and 2013-14 at 11M. Bar and donut charts compare state-wise growth, with 60.49% in 2017-18 and 39.51% in 2013-14. Interactive slicers for 34 states/UTs provide a clear view of India’s economic progress.
+This report presents an analysis of Gross State Domestic Product (GSDP) Growth in India from 2011 to 2022 using data sourced from data.gov.in. The objective is to compare the economic growth of different states over time, highlighting key trends and variations. The dashboard visualizes these insights through various charts and interactive filters, allowing users to explore the data dynamically.
+
+Data Source and Preparation
+The dataset was obtained from data.gov.in, a government portal that provides open data on economic indicators.
+Data was cleaned and structured in Power BI to ensure consistency and accuracy.
+Metrics such as total GSDP, percentage growth, and state-wise comparisons were calculated.
